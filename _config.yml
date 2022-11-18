@@ -103,5 +103,5 @@ theme: Ocean
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://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@github.com/42is42is42/doraemon42.github.io.git 
+  repository: git@github.com:42is42is42/doraemon42.github.io.github.io.git 
   branch: master

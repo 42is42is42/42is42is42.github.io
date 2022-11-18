@@ -104,4 +104,4 @@ theme: Ocean
 deploy:
   type: git
   repository: git@github.com:42is42is42/doraemon42.github.io.git
-  branch: master
+  branch: main

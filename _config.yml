@@ -103,5 +103,5 @@ theme: Ocean
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:42is42is42/42is42is42.github.io.git
+  repo: git@github.com:42is42is42/42is42is42.github.io.git
   branch: main
